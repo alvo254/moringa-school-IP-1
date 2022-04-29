@@ -79,6 +79,7 @@ nav ul #text a{
 .main{
     /* background-color: red; */
     display: flex;
+    
     flex-direction: row-reverse;
     text-align: left 100px;
     height: 700;
