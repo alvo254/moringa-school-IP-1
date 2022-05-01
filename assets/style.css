@@ -326,6 +326,10 @@ nav ul #text a{
     text-align: center;
     text-decoration: none;
 }
+.bike #gray{
+    background-color: #F5F5F7;
+}
+
 
 .bike{
     /* background-color: red; */

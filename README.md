@@ -4,7 +4,9 @@ Project name: Moringa School landing page.
 Project author: Alvin Ndungu.
 Description: This project was made to evaulate my understanding of weeks one content of web design.
 
+Link to live site: https://alvo254.github.io/moringa-school-IP-1/
 
+Deployment: connect to gh-pages 
 
 A project README that includes: - project or program name - author name - description of project - project setup instructions - link to live site on GitHub Pages - copyright and license information
 
