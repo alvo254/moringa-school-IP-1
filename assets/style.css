@@ -339,8 +339,18 @@ nav ul #text a{
 
 /* ------------------------------------project section start ------------------------------- */
 
+.ended{
+    padding-bottom: 100;
+    display: flex;
+    padding-left: 220;
 
-/* ------------------------------------ending---------------------------- */
+}
+.ending{
+    width: 570;
+    text-align: left;
+    padding-right: 190;
+    
+}
 .ending #buttons{
     color: white;
     background-color: #EC4067;
@@ -353,4 +363,13 @@ nav ul #text a{
     text-align: center;
     text-decoration: none;
 }
+/* ------------------------------------ending---------------------------- */
 
+.foot{
+    background-color: lightgray;
+    padding: 20;
+    padding-top: -120;
+}
+.content{
+    text-align: center;
+}
