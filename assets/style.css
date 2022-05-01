@@ -116,3 +116,32 @@ nav ul #text a{
 
 /* -----------------------------section 3 board meeting end------------------------- */
 
+/* ------------------------------ stories section start ---------------------------------- */
+.sec2 img{
+    height: 500;
+    width: 620;
+    padding-left: 100px;
+   
+
+}
+.stories{
+    width: 570px;
+    /* background-color: yellow; */
+    text-align: left;
+    padding-left: 90;
+    padding-top: 90;
+
+
+}
+.main2{
+    /* background-color: red; */
+    display: flex;
+    
+    text-align: left 100px;
+    height: 700;
+}
+
+
+/* ------------------------------ stories section end ---------------------------------- */
+
+
