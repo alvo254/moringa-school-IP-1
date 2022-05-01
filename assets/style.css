@@ -60,12 +60,35 @@ nav ul #text a{
 .sec1{
     padding: 128px 100px;
     height: 400;
+    
+}
+.Moringa #buttons{
+    color: white;
+    background-color: #EC4067;
+    border-radius: 20px;
+    padding: 13px;
+    /* float: right; */
+    /* position: relative; */
+    /* top: -15px; */
+    width: 200;
+    text-align: center;
+    text-decoration: none;
+}
+.Moringa #button{
+    color:#EC4067;
+    background-color: white;
+    padding: 10;
+    width: 230;
+    text-decoration: none;
+    text-align: center;
+    /* background-color: #EC4067; */
+    border-style: solid;
 }
 
 .sec1 img{
     height: 500px;
     width: 620;
-    padding-right: 150px;
+    padding-right: 200px;
    
 
 }
@@ -73,7 +96,7 @@ nav ul #text a{
     width: 570px;
     /* background-color: yellow; */
     text-align: left;
-    padding-left: -900;
+    padding-right: 20;
 
 }
 .main{
@@ -97,6 +120,18 @@ nav ul #text a{
     padding-right: 150px;
    
 
+}
+.board #buttons{
+    color: white;
+    background-color: #EC4067;
+    border-radius: 20px;
+    padding: 13px;
+    /* float: right; */
+    /* position: relative; */
+    /* top: -15px; */
+    width: 200;
+    text-align: center;
+    text-decoration: none;
 }
 .board{
     width: 570px;
@@ -122,7 +157,18 @@ nav ul #text a{
     width: 620;
     padding-left: 100px;
    
-
+}
+.stories #buttons{
+    color: white;
+    background-color: #EC4067;
+    border-radius: 20px;
+    padding: 13px;
+    /* float: right; */
+    /* position: relative; */
+    /* top: -15px; */
+    width: 200;
+    text-align: center;
+    text-decoration: none;
 }
 .stories{
     width: 570px;
@@ -176,6 +222,18 @@ nav ul #text a{
    
 
 }
+.grad #buttons{
+    color: white;
+    background-color: #EC4067;
+    border-radius: 20px;
+    padding: 13px;
+    /* float: right; */
+    /* position: relative; */
+    /* top: -15px; */
+    width: 200;
+    text-align: center;
+    text-decoration: none;
+}
 .grad{
     width: 570px;
     /* background-color: yellow; */
@@ -209,6 +267,18 @@ nav ul #text a{
 .card img{
     height: 250;
     width: 300;
+}
+.container #buttons{
+    color: white;
+    background-color: #EC4067;
+    border-radius: 20px;
+    padding: 13px;
+    /* float: right; */
+    /* position: relative; */
+    /* top: -15px; */
+    width: 200;
+    text-align: center;
+    text-decoration: none;
 }
 
 
@@ -244,13 +314,43 @@ nav ul #text a{
 
 
 }
+.site #buttons{
+    color: white;
+    background-color: #EC4067;
+    border-radius: 20px;
+    padding: 13px;
+    /* float: right; */
+    /* position: relative; */
+    /* top: -15px; */
+    width: 200;
+    text-align: center;
+    text-decoration: none;
+}
+
 .bike{
     /* background-color: red; */
     display: flex;
     flex-direction: row-reverse;
     text-align: left 100px;
+    padding-top: 120;
     height: 700;
 }
 
 
 /* ------------------------------------project section start ------------------------------- */
+
+
+/* ------------------------------------ending---------------------------- */
+.ending #buttons{
+    color: white;
+    background-color: #EC4067;
+    border-radius: 20px;
+    padding: 13px;
+    /* float: right; */
+    /* position: relative; */
+    /* top: -15px; */
+    width: 200;
+    text-align: center;
+    text-decoration: none;
+}
+
