@@ -192,6 +192,19 @@ nav ul #text a{
     height: 700;
 }
 
-
-
 /* ---------------------------------graduation party section stop -------------------------- */
+
+/* -----------------------------------card section start ------------------------------------ */
+.carded{
+    margin: 75px 0;
+}
+h4{
+    text-align: center;
+}
+h4:after{
+    content: '';
+    display: block;
+
+}
+/* -----------------------------------card section stop ------------------------------------ */
+
