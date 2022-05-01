@@ -47,7 +47,7 @@ nav ul #text a{
     color: black;
 }
 
-#box1{
+/* #box1{
     display: flex;
     position: relative;
     z-index: 1000;
@@ -55,17 +55,17 @@ nav ul #text a{
     height: 200px;
     border: 1px dashed blue;
 
-}
+} */
 
 .sec1{
-    background-color: aliceblue;
     padding: 128px 100px;
+    height: 400;
 }
 
 .sec1 img{
     height: 500px;
     width: 620;
-    padding-right: -800px;
+    padding-right: 150px;
    
 
 }
@@ -87,14 +87,14 @@ nav ul #text a{
 
 
 .sec3{
-    background-color: aliceblue;
+    padding-bottom: -120;
     padding: 128px 100px;
 }
 /* -----------------------------section 3 board meeting start------------------------- */
 .sec3 img{
     height: 500px;
     width: 620;
-    padding-right: 100px;
+    padding-right: 150px;
    
 
 }
@@ -111,7 +111,7 @@ nav ul #text a{
     display: flex;
     flex-direction: row-reverse;
     text-align: left 100px;
-    height: 700;
+    height: 500;
 }
 
 /* -----------------------------section 3 board meeting end------------------------- */
@@ -171,7 +171,8 @@ nav ul #text a{
 .sec4 img{
     height: 500;
     width: 620;
-    padding-left: 100px;
+    padding-left: 300px;
+    padding-top: 75;
    
 
 }
