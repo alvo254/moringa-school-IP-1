@@ -143,5 +143,55 @@ nav ul #text a{
 
 
 /* ------------------------------ stories section end ---------------------------------- */
+.sec2 img{
+    height: 500;
+    width: 620;
+    padding-left: 100px;
+   
+
+}
+.stories{
+    width: 570px;
+    /* background-color: yellow; */
+    text-align: left;
+    padding-left: 90;
+    padding-top: 90;
 
 
+}
+.main2{
+    /* background-color: red; */
+    display: flex;
+    
+    text-align: left 100px;
+    height: 700;
+}
+/* ---------------------------------graduation party section start -------------------------- */
+
+.sec4 img{
+    height: 500;
+    width: 620;
+    padding-left: 100px;
+   
+
+}
+.grad{
+    width: 570px;
+    /* background-color: yellow; */
+    text-align: left;
+    padding-left: 90;
+    padding-top: 90;
+
+
+}
+.main4{
+    /* background-color: red; */
+    display: flex;
+    
+    text-align: left 100px;
+    height: 700;
+}
+
+
+
+/* ---------------------------------graduation party section stop -------------------------- */
