@@ -79,8 +79,40 @@ nav ul #text a{
 .main{
     /* background-color: red; */
     display: flex;
-    
+
     flex-direction: row-reverse;
     text-align: left 100px;
     height: 700;
 }
+
+
+.sec3{
+    background-color: aliceblue;
+    padding: 128px 100px;
+}
+/* -----------------------------section 3 board meeting start------------------------- */
+.sec3 img{
+    height: 500px;
+    width: 620;
+    padding-right: 100px;
+   
+
+}
+.board{
+    width: 570px;
+    /* background-color: yellow; */
+    text-align: left;
+    padding-right: 190;
+
+
+}
+.main3{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: left 100px;
+    height: 700;
+}
+
+/* -----------------------------section 3 board meeting end------------------------- */
+
