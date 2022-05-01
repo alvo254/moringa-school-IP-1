@@ -358,3 +358,8 @@ nav ul #text a{
     text-decoration: none;
 }
 
+.content{
+    background-color: lightgray;
+    text-align: center;
+    padding: 20;
+}
